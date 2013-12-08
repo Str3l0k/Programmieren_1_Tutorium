@@ -1,4 +1,4 @@
-Programmieren_2_Tutorium
+Programmieren_1_Tutorium
 ========================
 
 Aufgaben und Loesungen zum Tutorium
