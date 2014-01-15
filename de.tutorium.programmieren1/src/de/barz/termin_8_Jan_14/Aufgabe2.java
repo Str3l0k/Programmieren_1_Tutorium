@@ -38,8 +38,8 @@ public class Aufgabe2 {
 						// Wenn Zahl gefunden entsprechend auf true setzen
 						gefunden = true;
 				}
+				
 			}
-
 			// Falls Zahl nicht gefunden, fehlt diese Zahl und das Sudokufeld ist unvollstaendig
 			if (gefunden == false)
 				return false;
